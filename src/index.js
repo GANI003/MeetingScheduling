@@ -62,7 +62,7 @@ app.get('/schedulerEvent',async (req,res) => {
              }
         },
         attendees : [{
-            email : "bhanukishore0613@gmail.com",
+            email : "user@gmail.com",
         }]
     },
    });
